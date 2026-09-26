@@ -1,3 +1,6 @@
+Inspired by Grand Theft Auto: Vice City, Bank Heist Mission.
+Camera is can pan by user using simple arrow keys. Scene is rendered with objects such as tanks, helicopters, cops, etc. 
+
 ////////////////////NOTE: I used vs code to edit, but compiled and ran everything in the MSYS2 MINGW64 TERMINAL.///////// OBVIOUSLY ALL
 // REQUIRED LIBRARIES AND INSTALL FILES WERE PROPERLY PLACED "fREEGLUT", ETC. Screenshots of output and my local desktop terminal are given.
 
